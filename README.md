@@ -393,15 +393,15 @@ Glades is an evolving creative frontend project. Its proposed architecture and f
 
 | Area                                 | Status         |
 | ------------------------------------ | -------------- |
-| Project setup and tooling            | 🟡 In progress |
-| Atmosphere and theme system          | 🟡 In progress |
-| Ambient Canvas background            | 🟡 In progress |
-| Procedural audio engine              | 🟡 In progress |
+| Project setup and tooling            | 🟢 Completed |
+| Atmosphere and theme system          | 🟢 Completed |
+| Ambient Canvas background            | 🟢 Completed |
+| Procedural audio engine              | 🟢 Completed |
 | Immersive hero section               | 🟡 In progress |
 | Narrative chapters                   | 🟡 In progress |
-| Breathing guide                      | 🟡 In progress |
+| Breathing guide                      | 🟢 Completed |
 | Interactive component gallery        | 🟡 In progress |
-| Whisper Notes                        | 🟡 In progress |
+| Whisper Notes                        | 🟢 Completed |
 | Responsive and accessibility testing | ⏳ Planned      |
 | Production build verification        | ⏳ Planned      |
 
